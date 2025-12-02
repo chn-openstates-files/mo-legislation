@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
   "identifier": "SB 839",
-  "title": "Relating to school board elections",
+  "title": "Moves school board elections to the November general election",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,12 +10,23 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Relating to school board elections"
+      "abstract": "Moves school board elections to the November general election"
     }
   ],
   "other_titles": [],
   "other_identifiers": [],
-  "actions": [],
+  "actions": [
+    {
+      "description": "Prefiled",
+      "date": "2025-12-01T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-12-02T22:15:04Z"
+      }
+    }
+  ],
   "sponsorships": [
     {
       "name": "Cierpiot",
@@ -27,12 +38,28 @@
     }
   ],
   "related_bills": [],
-  "versions": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB839.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "documents": [],
   "citations": [],
   "sources": [
     {
       "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=73",
+      "note": ""
+    },
+    {
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=73",
       "note": ""
     },
     {
@@ -48,6 +75,6 @@
     "division_id": "ocd-division/country:us/state:mo"
   },
   "_processing": {
-    "logs_latest_update": "2025-12-02T08:29:22Z"
+    "logs_latest_update": "2025-12-02T22:15:04Z"
   }
 }
