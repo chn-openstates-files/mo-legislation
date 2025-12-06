@@ -1,7 +1,7 @@
 {
   "legislative_session": "2026",
-  "identifier": "SB 865",
-  "title": "Modifies provisions relating to workers' compensation",
+  "identifier": "SB 1413",
+  "title": "Repeals certain provisions relating to contingency fee contracts with private attorneys retained by the state",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
@@ -10,7 +10,7 @@
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Modifies provisions relating to workers' compensation"
+      "abstract": "Repeals certain provisions relating to contingency fee contracts with private attorneys retained by the state"
     }
   ],
   "other_titles": [],
@@ -18,7 +18,7 @@
   "actions": [
     {
       "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "date": "2025-12-05T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -29,41 +29,29 @@
   ],
   "sponsorships": [
     {
-      "name": "Beck",
+      "name": "Schroer",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Beck\"}",
+      "person_id": "~{\"name\": \"Schroer\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB865.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=87",
+      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=3051",
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=87",
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=3051",
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=87",
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=3051",
       "note": ""
     }
   ],
