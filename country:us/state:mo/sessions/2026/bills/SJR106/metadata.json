@@ -1,16 +1,16 @@
 {
   "legislative_session": "2026",
-  "identifier": "SB 917",
-  "title": "Creates provisions relating to a post-consumer paint recycling program",
+  "identifier": "SJR 106",
+  "title": "Transfers authority over the state highway system to the Department of Transportation",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
-    "bill"
+    "joint resolution"
   ],
   "subject": [],
   "abstracts": [
     {
       "note": "abstract",
-      "abstract": "Creates provisions relating to a post-consumer paint recycling program"
+      "abstract": "Transfers authority over the state highway system to the Department of Transportation"
     }
   ],
   "other_titles": [],
@@ -18,7 +18,7 @@
   "actions": [
     {
       "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
+      "date": "2025-12-09T06:00:00+00:00",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -29,41 +29,29 @@
   ],
   "sponsorships": [
     {
-      "name": "Burger",
+      "name": "Schroer",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Burger\"}",
+      "person_id": "~{\"name\": \"Schroer\"}",
       "organization_id": null
     }
   ],
   "related_bills": [],
-  "versions": [
-    {
-      "note": "Introduced",
-      "links": [
-        {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB917.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    }
-  ],
+  "versions": [],
   "documents": [],
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=122",
+      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=8216",
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=122",
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=8216",
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=122",
+      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=8216",
       "note": ""
     }
   ],

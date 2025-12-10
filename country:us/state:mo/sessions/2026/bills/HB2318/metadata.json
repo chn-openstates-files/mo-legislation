@@ -1,25 +1,30 @@
 {
   "legislative_session": "2026",
-  "identifier": "SB 917",
-  "title": "Creates provisions relating to a post-consumer paint recycling program",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HB 2318",
+  "title": "Creates provisions relating to artificial intelligence in mental health",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
-  "abstracts": [
+  "subject": [
+    "ATTORNEY GENERAL",
+    "CIVIL PENALTIES",
+    "HEALTH CARE PROFESSIONALS",
+    "MENTAL HEALTH"
+  ],
+  "abstracts": [],
+  "other_titles": [
     {
-      "note": "abstract",
-      "abstract": "Creates provisions relating to a post-consumer paint recycling program"
+      "note": "official",
+      "title": "HB 2318"
     }
   ],
-  "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Prefiled (H)",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -29,11 +34,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Burger",
+      "name": "Pattie Mansur",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Burger\"}",
+      "person_id": "~{\"name\": \"Pattie Mansur\"}",
       "organization_id": null
     }
   ],
@@ -43,7 +48,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB917.pdf",
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5994H.01I.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -55,15 +60,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=122",
+      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2318&year=2026&code=R&style=new",
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=122",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=122",
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2318&year=2026&code=R",
       "note": ""
     }
   ],

@@ -1,25 +1,29 @@
 {
   "legislative_session": "2026",
-  "identifier": "SB 917",
-  "title": "Creates provisions relating to a post-consumer paint recycling program",
-  "from_organization": "~{\"classification\": \"upper\"}",
+  "identifier": "HB 2335",
+  "title": "Modifies provisions governing school employee training requirements",
+  "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
-  "abstracts": [
+  "subject": [
+    "EDUCATION, ELEMENTARY AND SECONDARY",
+    "ELEMENTARY AND SECONDARY EDUCATION, DEPT. OF",
+    "TEACHERS"
+  ],
+  "abstracts": [],
+  "other_titles": [
     {
-      "note": "abstract",
-      "abstract": "Creates provisions relating to a post-consumer paint recycling program"
+      "note": "official",
+      "title": "HB 2335"
     }
   ],
-  "other_titles": [],
   "other_identifiers": [],
   "actions": [
     {
-      "description": "Prefiled",
-      "date": "2025-12-01T06:00:00+00:00",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Prefiled (H)",
+      "date": "2025-12-10T06:00:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -29,11 +33,11 @@
   ],
   "sponsorships": [
     {
-      "name": "Burger",
+      "name": "Ann Kelley",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Burger\"}",
+      "person_id": "~{\"name\": \"Ann Kelley\"}",
       "organization_id": null
     }
   ],
@@ -43,7 +47,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB917.pdf",
+          "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5817H.01I.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -55,15 +59,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=122",
+      "url": "https://www.house.mo.gov/BillContent.aspx?bill=HB2335&year=2026&code=R&style=new",
       "note": ""
     },
     {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/Actions.aspx?SessionType=R&BillID=122",
-      "note": ""
-    },
-    {
-      "url": "https://www.senate.mo.gov/26info/BTS_Web/BillText.aspx?SessionType=R&BillID=122",
+      "url": "https://house.mo.gov/billactions.aspx?bill=HB2335&year=2026&code=R",
       "note": ""
     }
   ],
